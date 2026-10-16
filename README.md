@@ -19,7 +19,7 @@ Validation: JavaScript syntax checked; all 20 mazes checked for full connectivit
 
 ## Animal adventures
 
-Choose one of eight animal friends to guide home. Rescues add that friend to your woodland, and repeated finishes add decorations. Three optional acorns appear along the maze, including side paths when available. Collected acorns are added to your total when you finish. A careful-trail meter rewards exploring new parts of the path.
+Choose one of eight animal friends to guide home. Rescues add that friend to your woodland, and repeated finishes add decorations. Three optional acorns appear along the maze, including side paths when available. Collected acorns are added to your total when you finish. The Journey progress bar tracks the farthest room reached along the solution route. Side paths and retracing do not inflate it. It reaches 100% only on completion and resets after a wall hit.
 
 Choose gentle turns or wiggly trails. Cozy mode always provides a small, wide maze and does not unlock journey stages. After repeated wall bumps the game offers cozy mode; a high-scoring finish offers an optional narrower trail. Wider path is always available.
 
