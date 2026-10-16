@@ -10,7 +10,7 @@ On a tablet connected to the same Wi-Fi, visit `http://YOUR-COMPUTER-IP:8000`. Y
 
 A fresh maze is generated every time you open, restart, or retry a stage. Stage dimensions and path widths still follow the same difficulty progression.
 
-Begin at the green Start circle and trace to the house. Lift the pen to rest and resume at the dark green dot. Wall contacts subtract 12 points, with a short cooldown so a single bump does not repeatedly deduct points. There is no time limit. Three stars require 900 points, two require 650, and completing a maze always earns one star. The Wider path button adds room without a score penalty.
+Begin at the green Start circle and trace to the house. Lift the pen to rest and resume at the dark green dot. Wall contacts subtract 12 points and restart the attempt on the same maze: the animal returns to Start, the trail and collected acorns clear, and the timer returns to zero. Lift the pen and place it at Start to resume. The timer counts seconds from opening the stage, continues during pen rests, and stops on completion. There is no time limit. Three stars require 900 points, two require 650, and completing a maze always earns one star. The Wider path button adds room without a score penalty.
 
 Progress is saved locally in the current browser. Clearing browser storage clears progress. Fonts are optional downloads; the game itself has no external runtime dependencies.
 
