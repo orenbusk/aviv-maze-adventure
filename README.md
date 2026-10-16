@@ -30,3 +30,5 @@ The daily adventure contains three fresh rescue mazes, with five bonus acorns af
 Open https://orenbusk.github.io/aviv-maze-adventure/ in Chrome. Choose **Install app** or **Add to Home screen → Install** from Chrome’s menu. The web app manifest includes custom fox icons at 192 and 512 pixels, and the app opens in its own window. Remove the old Chrome shortcut and install again if it retains the previous icon. A plain browser shortcut may still show a Chrome badge, depending on the Android launcher.
 
 After one online visit the service worker caches the game for offline use. It checks the network first on later visits to receive updates.
+
+Maze routes cover at least 65% of a larger grid (starting at 6 × 4 rooms). The home is placed at the farthest dead end from Start, with exactly one connecting corridor.
