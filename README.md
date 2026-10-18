@@ -32,3 +32,15 @@ Open https://orenbusk.github.io/aviv-maze-adventure/ in Chrome. Choose **Install
 After one online visit the service worker caches the game for offline use. It checks the network first on later visits to receive updates.
 
 Maze routes cover at least 65% of a larger grid (starting at 6 × 4 rooms). The home is placed at the farthest dead end from Start, with exactly one connecting corridor.
+
+## Letter tracing
+Use the game section buttons to switch between maze adventures and Learn letters.
+The letter section teaches 26 capital English letters (A–Z), with numbered strokes,
+a direction arrow, and a Show me demonstration of the current stroke. Follow each
+stroke in order; lifting the pen keeps progress, while leaving the guide asks the
+child to resume at the green dot. Each successful trace shows a random happy announcement. Complete a letter five times
+to unlock the next. Saved counters on the board and letter menu show completions out of five.
+Previously completed letters count as one trace each. Letter progress is saved separately on this device.
+Celebrations respect the shared Sound control. Both sections are cached for offline use.
+
+Run letter checks with node verify-letters.cjs, and maze checks with node verify.cjs.
